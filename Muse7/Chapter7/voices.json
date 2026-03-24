@@ -1,0 +1,86 @@
+{
+  "Narrator": {
+    "ref_text": "Chapter 7",
+    "ref_instruct": "Measured, cinematic narrator voice with dusky gravitas. Calm, observant, and faintly ominous, as though each line is being lifted from smoke above a winter battlefield. Unhurried phrasing, soft consonants, and restrained authority."
+  },
+  "Magistrate of Novioduno": {
+    "ref_text": "‘The magistrate of this oppidum asks that Caesar remembers the Bituriges’ oath and their longstanding alliance and would ask that he spare his people, who have made no war upon Rome.’",
+    "ref_instruct": "Civic noble voice, formal and anxious. Public-facing, cautious, and diplomatic, with the strain of a man trying to save his town without losing face."
+  },
+  "Caesar": {
+    "ref_text": "’We are on a somewhat pressing schedule and cannot spare the time to adequately impress upon the Bituriges of Novioduno how disappointed we are that they have chosen to ignore the oath of which the magistrate speaks and instead send aid and warriors to the renegade Vercingetorix.’ He paused for the cavalry officer to translate his words, and then continued. ‘Consider yourselves fortunate indeed that we are so pressed for time and that I am a generous, merciful man, lest I decide to tarry long enough to leave your oppidum a pile of smoking rubble and corpses.’",
+    "ref_instruct": "Imperious Roman commander voice, cold and surgical. Controlled, aristocratic, and effortlessly authoritative, with the confidence of someone accustomed to obedience."
+  },
+  "Fronto": {
+    "ref_text": "‘Carbo? Take two centuries of men and empty that place of weapons and horses.’",
+    "ref_instruct": "Seasoned Roman officer voice, dry and intelligent. Sardonic, practical, and battle-hardened, with quick wit beneath disciplined command."
+  },
+  "Scene Break": {
+    "ref_text": "* * * * *",
+    "ref_instruct": "Ceremonial transitional voice, brief and hushed. Treat the break like a curtain of cold mist passing between scenes."
+  },
+  "Scout": {
+    "ref_text": "‘We are too late,’ said one of the scouts, somewhat redundantly, given the fact that Lucterius could quite clearly see over a hundred legionaries marching across the southern bridge and into the open gates while the oppidum’s nobles stood in a useless knot, watching their own downfall coming to pass around them.",
+    "ref_instruct": "Weathered outrider voice, alert and pragmatic. Short, functional delivery with the tension of a man who has seen trouble first."
+  },
+  "Another Scout": {
+    "ref_text": "‘What now?’ another scout asked quietly.",
+    "ref_instruct": "Nervous cavalry scout voice, quieter and more doubtful. Respectful, wary, and quick to point out the bad odds."
+  },
+  "Lucterius": {
+    "ref_text": "‘They have only four legions here, on the southern plain. The others are across the river and will take time to bring into the fray. I can see little sign of their auxiliaries, and only a small force of cavalry - mostly Belgae by the looks of it. Perhaps fifteen thousand infantry, not more than a thousand cavalry - fifteen hundred at most. Seventeen thousand against three and a half. It is far from acceptable odds.’",
+    "ref_instruct": "Hardened Gallic commander voice, sober and intense. Strategic under pressure, proud but stung by failure, with fatigue buried under discipline."
+  },
+  "Atenos": {
+    "ref_text": "‘Hold your arguments in one of the buildings,’ he barked in his native tongue, not far from that of these despondent nobles, though more refined and inflected with the accent of the Greek and Latin-influenced southern tribes.",
+    "ref_instruct": "Rugged centurion voice with a Gallic edge. Brusque, forceful, and physically imposing, sounding like a man who solves chaos by shouting through it."
+  },
+  "Carbo": {
+    "ref_text": "‘This house is a veritable armoury, Atenos. Get some lads in here with a cart. Looks to me like they’ve been preparing for action. Weapons destined for the rebel army.’",
+    "ref_instruct": "Veteran primus pilus voice, gravelly and blunt. Dependable, darkly amused, and unembellished, like old leather and iron."
+  },
+  "Local Voice": {
+    "ref_text": "‘Enemy cavalry spotted. That’s the call to arms!’",
+    "ref_instruct": "Alarmed townsman voice, urgent and raw. A sharp burst of warning rather than a polished speech."
+  },
+  "Unknown Soldier": {
+    "ref_text": "‘Sound the cornu,’ someone yelled. ‘Rally at the gate.’",
+    "ref_instruct": "Battlefield shout, rough and immediate. Give it the clipped panic of a man yelling over steel and confusion."
+  },
+  "Varus": {
+    "ref_text": "‘Here we go, lads. No heroics. Try and stay out of too much danger.’",
+    "ref_instruct": "Roman cavalry commander voice, forceful and martial. Bold, quick-reacting, and professional, with confidence sharpened by danger."
+  },
+  "Ingenuus": {
+    "ref_text": "‘Varus!’",
+    "ref_instruct": "Praetorian officer voice, hard and economical. Minimal words, maximal force; everything lands like an order in motion."
+  },
+  "Vergasillaunus": {
+    "ref_text": "‘How long has it been?’ Vergasillaunus asked, his voice dark.",
+    "ref_instruct": "Kingly lieutenant voice, wary and sharp-eyed. Low, wind-brushed tone with clipped questions and a scout’s instinct for danger."
+  },
+  "Vercingetorix": {
+    "ref_text": "Vercingetorix shook his head. ‘Caesar has moved speedily and decisively at every turn. Far more so than we had ever believed possible. He will not have delayed at Novioduno. In fact, with more than two days gone, there is every chance that he is already at Avaricon.’ He turned an inscrutable gaze on Lucterius. ‘What say you?’",
+    "ref_instruct": "Gallic high king voice, ironbound and strategic. Deep, deliberate, and commanding, with calm authority that weighs tribes, weather, and war at once."
+  },
+  "Lesser Chief": {
+    "ref_text": "‘How do we go about gathering it all and transporting it?’ asked one of the lesser chiefs curiously. ‘That could take months, by which time there will be a fresh harvest waiting.’",
+    "ref_instruct": "Minor chieftain voice, practical but uncertain. Curious, earthbound, and a little out of his depth amid grand strategy."
+  },
+  "Another Chief": {
+    "ref_text": "‘What?’ another of the chiefs yelped, his eyes wide. ‘You would destroy our own settlements?’",
+    "ref_instruct": "Alarmed tribal chief voice, incredulous and reactive. Quick, emotional, and visibly shaken by the cost being proposed."
+  },
+  "Bituriges Chief": {
+    "ref_text": "‘But you cannot mean to fire our homes?’ asked another incredulous chief - one of the Bituriges from a minor town to the west, Vercingetorix seemed to remember.",
+    "ref_instruct": "Bituriges noble voice, proud and aggrieved. Defensive, passionate, and openly resentful when his people are asked to sacrifice first."
+  },
+  "Bituriges Voices": {
+    "ref_text": "‘You can’t burn Avaricon!’",
+    "ref_instruct": "Crowd of angry Bituriges, outraged and overlapping. Make the lines feel communal, heated, and impossible to ignore."
+  },
+  "Argicios": {
+    "ref_text": "‘Our people are crushed. Cenabum lies in ruins because of our alliance with you. No mention has been made of any consideration for our plight, despite the fact that we began this war for you, struck the first blow in defiance of Rome. And we still stand by our oath to you, as do our Senone brothers, who have watched their towns ravaged while their greatest city has played host to the Romans all winter. But no more will we follow blindly. We must stand by our brothers. If we are to be an army of all the tribes, we cannot be expected to sacrifice that which makes us what we are. If you continue your endless siege here and your fruitless pursuit of the Aedui, while allowing your loyal allies to languish under the Roman heel, we will consider our oath as void and return to our own lands to proceed however we can.’",
+    "ref_instruct": "Carnute spokesman voice, grave and accusatory. Controlled anger, political weight, and the exhaustion of a people already burned by war."
+  }
+}
