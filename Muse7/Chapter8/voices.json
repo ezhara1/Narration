@@ -1,0 +1,94 @@
+{
+  "Narrator": {
+    "ref_text": "Chapter 8",
+    "ref_instruct": "Measured, enigmatic narrator with a dusky, ancient cadence. Calm, observant, and faintly ominous, with unhurried phrasing and restrained gravitas."
+  },
+  "Vergasillaunus": {
+    "ref_text": "‘Lucterius seems to be smiling. Makes a change.’",
+    "ref_instruct": "Enigmatic warrior-noble voice, wary and sharp-eyed. Low, wind-brushed tone with clipped questions and a scout’s alertness."
+  },
+  "Lucterius": {
+    "ref_text": "‘Two pieces of good news,’",
+    "ref_instruct": "Enigmatic field commander voice, weathered and sober. Steady, practical delivery under pressure, with fatigue held tightly behind discipline."
+  },
+  "Vercingetorix": {
+    "ref_text": "‘And what of the Aedui escort?’",
+    "ref_instruct": "Enigmatic kingly voice, controlled and ironbound. Deep, deliberate, strategic, and calmly authoritative."
+  },
+  "Fronto": {
+    "ref_text": "‘It’s a tough nut to crack,’",
+    "ref_instruct": "Enigmatic Roman officer voice, dry and intelligent. Seasoned military tone with sardonic undercurrents and practical command."
+  },
+  "Caesar": {
+    "ref_text": "‘If there were another option, I would consider it,’",
+    "ref_instruct": "Enigmatic statesman-general voice, composed and incisive. Calm authority, persuasive clarity, and strategic control."
+  },
+  "Plancus": {
+    "ref_text": "‘Artillery is not the way, though, general.’",
+    "ref_instruct": "Enigmatic staff officer voice, measured and increasingly assured. Thoughtful, cautious, and more competent than expected."
+  },
+  "Antonius": {
+    "ref_text": "‘The usual,’",
+    "ref_instruct": "Enigmatic officer voice, casual but capable. Slightly irreverent surface with strong instincts and quick attention beneath it."
+  },
+  "Cicero": {
+    "ref_text": "‘We could build artillery platforms closer to the walls?’",
+    "ref_instruct": "Enigmatic analytical voice, educated and tentative. Precise, thoughtful, and careful in suggestion."
+  },
+  "Priscus": {
+    "ref_text": "‘Once we get them within effective range, the trajectories will be so high it will cause the artillerists endless headaches. Besides, once we get them that close, they’ll be under attack from the walls because of their height and angle. For every bolt or rock we put over the walls, we’ll lose several men. Hardly worth it.’",
+    "ref_instruct": "Enigmatic prefect voice, brusque and unsentimental. Crisp, efficient, practical, and mildly irritated in the manner of a veteran professional."
+  },
+  "Roman Officer": {
+    "ref_text": "‘The men are hungry, mind, Caesar. And hunger makes them weaker than usual. We moved onto half rations days ago, and Proculus tells me we’ll be halving that again in a few days. Soldiers living on hard-tack biscuits will struggle to build such a structure… especially under constant attack from the walls.’",
+    "ref_instruct": "Enigmatic Roman officer voice, disciplined and work-worn. Matter-of-fact, pragmatic, and faintly strained by privation."
+  },
+  "Crowd Voice": {
+    "ref_text": "‘But I will never carry out such a work at the expense of my legions. If you are feeling the pinch of hunger too deep to commit to such work, then I understand. If we reach the point at which you can no longer go on and it becomes critical for us to return to our supply bases, I will raise the siege without further comment, and the army will break camp and move away.’",
+    "ref_instruct": "Enigmatic common soldier voice, blunt and reactive. Brief, forceful, and emotionally transparent."
+  },
+  "Engineer Legionary": {
+    "ref_text": "‘You would have us continue?’",
+    "ref_instruct": "Enigmatic engineer-soldier voice, practical and technical. Grounded, direct, and confident in matters of construction."
+  },
+  "Legionary": {
+    "ref_text": "‘It’ll need to be maybe four hundred paces long and upward of eighty feet in height. And the width will have to be a lot more than that of a simple siege tower to provide adequate stability. Two to three weeks to be sure of success.’",
+    "ref_instruct": "Enigmatic veteran legionary voice, rough and determined. Earthy diction, stubborn resolve, and campfire defiance."
+  },
+  "Another Legionary": {
+    "ref_text": "‘We’ll get it done fast. We’ve never abandoned a siege yet, all through this piss-poor land, an’ we ain’t going to start doin’ it now.’",
+    "ref_instruct": "Enigmatic ranker’s voice, loud-hearted and vengeful. Quick, fervent, and carried by battlefield camaraderie."
+  },
+  "Aedui Scout": {
+    "ref_text": "‘For all those who have fallen in the name of Gaul’s pacification, we will crack Avaricon and bring the Bituriges to heal and by the kalends of Aprilis we will stand in their halls eating their bread and drinking their wine.’",
+    "ref_instruct": "Enigmatic scout voice, lean and observant. Respectful, efficient, and quietly exact in the delivery of intelligence."
+  },
+  "Varus": {
+    "ref_text": "‘The Bituriges will hold, especially with Cavarinos and Critognatos among their number. And should the worst happen and it does fall, it is little more than a setback in the grand scheme. We only came here to mollify the chieftains. I would have left well alone, for the Aedui continue to be my prime concern.’",
+    "ref_instruct": "Enigmatic senior officer voice, tired but disciplined. Dry, controlled, and burdened by attrition and logistics."
+  },
+  "Cavarinos": {
+    "ref_text": "‘I do not like the sound of that.’",
+    "ref_instruct": "Enigmatic aristocratic warrior voice, smooth and inwardly conflicted. Thoughtful, persuasive, and cool under pressure."
+  },
+  "Critognatos": {
+    "ref_text": "‘It is time, brother,’",
+    "ref_instruct": "Enigmatic zealot-warrior voice, fierce and unyielding. Harsh, contemptuous, and restless for violent action."
+  },
+  "Carbo": {
+    "ref_text": "‘We’re there, lads. Come the dawn, we’ll be up those towers and onto the walls.’",
+    "ref_instruct": "Enigmatic veteran-centurion voice, gravelly and dependable. Blunt, forceful, and darkly amused."
+  },
+  "Pomponius": {
+    "ref_text": "‘What is it?’",
+    "ref_instruct": "Enigmatic engineer-officer voice, brisk and technical. Focused, breathless under crisis, but driven by exact understanding."
+  },
+  "Grattius": {
+    "ref_text": "‘Nightmare,’",
+    "ref_instruct": "Enigmatic primus pilus voice, steady and battle-hardened. Solid, reliable, and all business in a crisis."
+  },
+  "Palmatus": {
+    "ref_text": "‘Come on, lads. Get ‘em.’",
+    "ref_instruct": "Enigmatic bodyguard voice, brisk and martial. Sardonic, loyal, and quick with both action and wit."
+  }
+}
