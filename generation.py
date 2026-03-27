@@ -16,7 +16,7 @@ from qwen_tts import Qwen3TTSModel
 # ============================================================
 
 # Specify the base path where voice and script JSON files are stored, and where all outputs will be saved
-BASE_PATH = Path(__file__).parent / "Muse7/Chapter7"
+BASE_PATH = Path(__file__).parent / "Muse7/Chapter8"
 
 VOICE_FILE = BASE_PATH / "voices.json"
 SCRIPT_FILE = BASE_PATH / "script.json"
